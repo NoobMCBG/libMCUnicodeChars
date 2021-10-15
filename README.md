@@ -40,6 +40,9 @@ sendMessage(MCUnicodeChars::$CODE_BUILDER_BUTTON);
 |   CODE_BUILDER_BUTTON   |          |       ![](https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/code-builder.png)      |
 | IMMERSIVE_READER_BUTTON |          | ![](https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/immersive-reader-button.png) |
 |          TOKEN          |          |          ![](https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/token.png)          |
+# Todo
+- [ ] Make replace function.
+- [ ] Make it compatible with Horizon (InnerCore)
 
 # License
 Copyright (c) MintoD. All rights reserved.
