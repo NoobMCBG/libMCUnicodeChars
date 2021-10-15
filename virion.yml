@@ -1,0 +1,6 @@
+name: libMCUnicodeChars
+version: 1.0.0
+author: MintoD
+description: Minecraft Bedrock Unicode Characters
+antigen: MintoD\libMCUnicodeChars
+api: [3.0.0]
