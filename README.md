@@ -14,6 +14,13 @@
   </p>
 </div>
 
+# Usage
+```php
+use MintoD\libMCUnicodeChars\libMCUnicodeChars as MCUnicodeChars;
+
+sendMessage(MCUnicodeChars::$CODE_BUILDER_BUTTON);
+```
+
 # Support characters
 |           Name          | Character |                                                 In-game                                                 |
 |:-----------------------:|:---------:|:-------------------------------------------------------------------------------------------------------:|
