@@ -20,6 +20,13 @@ use MintoD\libMCUnicodeChars\libMCUnicodeChars as MCUnicodeChars;
 
 sendMessage(MCUnicodeChars::$CODE_BUILDER_BUTTON);
 ```
+**Use replace function**  
+The replace function will replace the character name in curly braces with the character.
+```php
+use MintoD\libMCUnicodeChars\libMCUnicodeChars as MCUnicodeChars;
+
+MCUnicodeChars::replace("{$CODE_BUILDER_BUTTON} is a character"); //WIll return MCUnicodeChars::$CODE_BUILDER_BUTTON is a character
+```
 
 # Support characters
 |           Name          | Character |                                                 In-game                                                 |
