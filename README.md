@@ -42,7 +42,6 @@ sendMessage(MCUnicodeChars::$CODE_BUILDER_BUTTON);
 |          TOKEN          |          |          ![](https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/token.png)          |
 # Todo
 - [ ] Make replace function.
-- [ ] Make it compatible with Horizon (InnerCore)
 
 # License
 Copyright (c) MintoD. All rights reserved.
