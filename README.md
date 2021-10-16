@@ -41,7 +41,7 @@ sendMessage(MCUnicodeChars::$CODE_BUILDER_BUTTON);
 | IMMERSIVE_READER_BUTTON |          | ![](https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/immersive-reader-button.png) |
 |          TOKEN          |          |          ![](https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/token.png)          |
 # Todo
-- [ ] Make replace function.
+- [x] Make replace function.
 
 # License
 Copyright (c) MintoD. All rights reserved.
