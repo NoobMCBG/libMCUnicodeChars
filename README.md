@@ -11,6 +11,8 @@
     <a href="https://github.com/MintoD/libMCUnicodeChars/releases">Releases</a>
     ·
     <a href="https://github.com/MintoD/libMCUnicodeChars/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/MintoD/libMCUnicodeChars/wiki">Wiki</a>
   </p>
 </div>
 
