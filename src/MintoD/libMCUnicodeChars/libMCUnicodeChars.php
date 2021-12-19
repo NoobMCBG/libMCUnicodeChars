@@ -43,6 +43,12 @@ class libMCUnicodeChars
         ""  /* TOKEN                   */
     ];
 
+    /**
+     * Replace the characters in the string with the Minecraft Unicode characters.
+     *
+     * @param string $str
+     * @return string
+     */
     public static function replace(string $str): string
     {
         return str_replace(self::CharactersName, self::MCUnicodeChars, $str);
