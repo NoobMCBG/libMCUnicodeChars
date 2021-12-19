@@ -1,3 +1,5 @@
+[![PHPStan](https://github.com/MintoD/libMCUnicodeChars/actions/workflows/phpstan.yml/badge.svg)](https://github.com/MintoD/libMCUnicodeChars/actions/workflows/phpstan.yml)
+
 <div align="center">
   <a href="https://github.com/MintoD/libMCUnicodeChars">
     <img src="https://raw.githubusercontent.com/MintoD/libMCUnicodeChars/main/assets/code-builder.png" alt="Logo" width="auto" height="auto">
